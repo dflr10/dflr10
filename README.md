@@ -34,7 +34,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/daniel-felipe-lozada-ramirez-28b239115/)
 - 📝 &nbsp; Checkout my [portfolio](https://dflr10.github.io/Portafolio-Daniel-Lozada-Dev/)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels.
+- 🎮 &nbsp; When I am free, I like to play battle royale video games.
 
 <br>
 <h2>Only if you want it can you donate to me...<h2/>
