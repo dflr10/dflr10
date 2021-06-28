@@ -41,7 +41,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <h2>Only if you want it can you donate to me...<h2/>
 <a href="https://paypal.me/donatetodaniellozada?locale.x=es_XC" target="_blank"><img src="./assets/paypal.png" alt="Buy Me A Coffee" width="150"></a>
-
+<br>
+<br>
+  
 ### 🔨 Languages and Tools:
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
   
