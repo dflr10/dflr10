@@ -87,7 +87,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🛠️ My Projects
 <a href="https://github.com/dflr10/RUIPI" target="_blank"> <img alt="RUIPI" src="./projects/ruipi.png" height="68" align="left"> </a>
-<a href="https://github.com/dflr10/RUIPIWebapp" target="_blank"> <img alt="RUIPI Web App" src="./projects/ruipiweb.png" height="68" align="left"> </a>
-<a href="https://github.com/dflr10/flags-react-project" target="_blank"> <img alt="CountryHub" src="./projects/CountryHub.ico" height="68" align="left"> </a>
-<a href="https://github.com/dflr10/SHOWFLIX" target="_blank"> <img alt="SHOWFLIX" src="./projects/SHOWFLIX.ico"  height="68" align="left"> </a>
-<a href="https://github.com/dflr10/Songcher" target="_blank"> <img alt="Songsher" src="./projects/Songsher.ico" height="68" align="left"> </a>
+<a href="https://github.com/dflr10/RUIPIWebapp" target="_blank"> <img alt="RUIPI Web App" src="./projects/ruipiweb.png" height="58" align="left"> </a>
+<a href="https://github.com/dflr10/flags-react-project" target="_blank"> <img alt="CountryHub" src="./projects/CountryHub.ico" height="58" align="left"> </a>
+<a href="https://github.com/dflr10/SHOWFLIX" target="_blank"> <img alt="SHOWFLIX" src="./projects/SHOWFLIX.ico"  height="58" align="left"> </a>
+<a href="https://github.com/dflr10/Songcher" target="_blank"> <img alt="Songsher" src="./projects/Songsher.ico" height="58" align="left"> </a>
