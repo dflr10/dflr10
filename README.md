@@ -55,7 +55,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img align="left" alt="IntelliJ IDEA" height ="42px" src="./assets/intellij-idea.png"></a>
   
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VS Code" height ="42px" src="./assets/vscode.png"></a>  
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VS Code" height ="38px" src="./assets/vscode.png"></a>  
   
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"></a>
   
