@@ -38,6 +38,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🎮 &nbsp; When I am free, I like to play battle royale video games.
 
 <br>
+<br>
 <h2>Only if you want it can you donate to me...<h2/>
 <a href="https://paypal.me/donatetodaniellozada?locale.x=es_XC" target="_blank"><img src="./assets/paypal.png" alt="Buy Me A Coffee" width="150"></a>
 <br>
