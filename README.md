@@ -19,12 +19,13 @@
 <br />
 
 
-
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Java Developer ☕) depending on what the project requires. I love exploring new tech stackand leveraging them to build cool stuffs. 
 <br/>
 <br/>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <br/>
+  
   
 ### 🧐 More About Me:
 
@@ -36,11 +37,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📝 &nbsp; Checkout my [portfolio](https://dflr10.github.io/Portafolio-Daniel-Lozada-Dev/).
 - 🎮 &nbsp; When I am free, I like to play battle royale video games.
 
-<br>
-<h2>Only if you want it can you donate to me...<h2/>
-<a href="https://paypal.me/donatetodaniellozada?locale.x=es_XC" target="_blank"><img src="https://alubadia.co.uk/wp-content/uploads/2018/03/paypal.jpg" alt="Buy Me A Coffee" width="150"></a>
 
 <br>
+<h2>Only if you want it can you donate to me...<h2/>
+<a href="https://paypal.me/donatetodaniellozada?locale.x=es_XC" target="_blank"><img src="./assets/paypal.png" alt="Buy Me A Coffee" width="150"></a>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
