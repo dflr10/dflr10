@@ -57,12 +57,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VS Code" height ="38px" src="./assets/vscode.png"></a>  
   
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"></a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height ="42px" src="./assets/docker.png"></a>
   
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="./assets/mysql.png"></a>
   
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/></a>
-  
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
   
