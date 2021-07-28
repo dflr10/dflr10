@@ -34,7 +34,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dflr10?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/daniel-felipe-lozada-ramirez-28b239115/).
-- 📝 &nbsp; Checkout my [portfolio](https://dflr10.github.io/Portafolio-Daniel-Lozada-Dev/).
+- 📝 &nbsp; Checkout my [portfolio](https://dflr10.github.io/Portfolio-CV/).
 - 🎮 &nbsp; When I am free, I like to play battle royale video games.
 
 <br>
