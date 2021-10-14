@@ -29,7 +29,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **RUIPI**.
+- 🔭 &nbsp; I’m currently working on **PETHOME WEB APP**.
 - 🌱 &nbsp; I’m currently learning ReactJs and NodeJS. 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dflr10?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
@@ -51,7 +51,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
   
-<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" height ="36px" src="./assets/php.png"></a>
+<!-- <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" height ="36px" src="./assets/php.png"></a> -->
   
 <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img align="left" alt="IntelliJ IDEA" height ="42px" src="./assets/intellij-idea.png"></a>
   
