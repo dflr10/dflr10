@@ -19,7 +19,8 @@
 <br />
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Java Developer ☕) depending on what the project requires. I love exploring new tech stackand leveraging them to build cool stuffs. 
+I am a versatilist and easily adapt to different stacks (JR Full Stack Web Developer 🌐, Java Developer ☕) depending on what the project requires. I love exploring new tech stackand leveraging them to build cool stuffs, constantly learning and updating my knowledge and i like the feedback that comes from teamwork. The programming languages that I use are Java, JavaScript and Python, but I also have knowledge in SQL databases. I am currently learning development backend with Django and Django REST frameworks and frontend development with React JS, Vue JS and Bootstrap.
+
 <br/>
 <br/>
 
@@ -30,12 +31,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **PETHOME WEB APP**.
-- 🌱 &nbsp; I’m currently learning ReactJs and NodeJS. 
+- 🌱 &nbsp; I’m currently learning React.Js Vue.Js, Django REST and NodeJS. 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dflr10?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/daniel-felipe-lozada-ramirez-28b239115/).
 - 📝 &nbsp; Checkout my [portfolio](https://dflr10.github.io/Portfolio-CV/).
-- 🎮 &nbsp; When I am free, I like to play battle royale video games.
+- 🎮 &nbsp; When I am free, I like to play battle royale video games and draw.
 
 <br>
 <br>
@@ -59,11 +60,19 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height ="42px" src="./assets/docker.png"></a>
   
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="./assets/mysql.png"></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="./assets/postgresql.png"></a>
+
+<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="42px" src="./assets/mysql.png"></a>
   
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/></a>
+  
+<a href="https://www.heroku.com" target="_blank"> <img align="left" src="./assets/heroku.png" alt="firebase" height ="38px"/></a>
+  
+<a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height ="42px" src="./assets/vue.png"></a>
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+   
+<a href="https://www.django-rest-framework.org/" target="_blank"><img align="left" alt="DjangoREST" height ="42px" src="./assets/DjangoREST.png"></a>
   
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
   
@@ -85,6 +94,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
+<a href="https://pethomemintic-fe.herokuapp.com" target="_blank"> <img alt="RUIPI" src="./projects/pethome64p.png" height="68" align="left"> </a>
 <a href="https://github.com/dflr10/RUIPI" target="_blank"> <img alt="RUIPI" src="./projects/ruipi.png" height="68" align="left"> </a>
 <a href="https://github.com/dflr10/RUIPIWebapp" target="_blank"> <img alt="RUIPI Web App" src="./projects/ruipiweb.png" height="58" align="left"> </a>
 <a href="https://github.com/dflr10/flags-react-project" target="_blank"> <img alt="CountryHub" src="./projects/CountryHub.ico" height="58" align="left"> </a>
