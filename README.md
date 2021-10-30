@@ -72,7 +72,7 @@ I am a versatilist and easily adapt to different stacks (JR Full Stack Web Devel
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
    
-<a href="https://www.django-rest-framework.org/" target="_blank"><img align="left" alt="DjangoREST" height ="42px" src="./assets/DjangoREST.png"></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="DjangoREST" height ="42px" src="./assets/django.png"></a>
   
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
   
