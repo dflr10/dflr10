@@ -31,7 +31,7 @@ I am a versatilist and easily adapt to different stacks (JR Full Stack Web Devel
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **PETHOME WEB APP**.
-- 🌱 &nbsp; I’m currently learning React.Js Vue.Js, Django REST and NodeJS. 
+- 🌱 &nbsp; I’m currently learning React.Js Vue.Js, Django REST and CONTENTFUL. 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dflr10?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/daniel-felipe-lozada-ramirez-28b239115/).
