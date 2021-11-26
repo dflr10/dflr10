@@ -45,7 +45,8 @@ I am a versatilist and easily adapt to different stacks (JR Full Stack Web Devel
 <br>
 <br>
   
-### 🔨 Languages and Tools:
+<h2> 🔨 Languages and Tools: <h2/>
+  
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
@@ -81,19 +82,17 @@ I am a versatilist and easily adapt to different stacks (JR Full Stack Web Devel
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
-
-### 📊 Github Stats
+<hr>
+<h2> 📊 Github Stats <h2/>
 <a href='https://github.com/dflr10/github-stats-transparent'>
-  
+ 
 ![Stats Overview](https://raw.githubusercontent.com/dflr10/github-stats-transparent/36bc2e58f8873a1baa7d09313c794e08ca3d84e3/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/dflr10/github-stats-transparent/36bc2e58f8873a1baa7d09313c794e08ca3d84e3/generated/languages.svg)
-
+  
 </a>
-
 <br>
+<h2> 📚 My Projectss: <h2/>
 
-### 🛠️ My Projects
 <a href="https://pethomemintic-fe.herokuapp.com" target="_blank"> <img alt="RUIPI" src="./projects/pethome64p.png" height="68" align="left"> </a>
 <a href="https://github.com/dflr10/RUIPI" target="_blank"> <img alt="RUIPI" src="./projects/ruipi.png" height="68" align="left"> </a>
 <a href="https://github.com/dflr10/RUIPIWebapp" target="_blank"> <img alt="RUIPI Web App" src="./projects/ruipiweb.png" height="58" align="left"> </a>
