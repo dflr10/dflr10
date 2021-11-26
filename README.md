@@ -86,8 +86,8 @@ I am a versatilist and easily adapt to different stacks (JR Full Stack Web Devel
 ### 📊 Github Stats
 <a href='https://github.com/dflr10/github-stats-transparent'>
   
-![Stats Overview](https://github.com/dflr10/github-stats-transparent/blob/output/generated/overview.svg)
-![Most Used Languages](https://github.com/dflr10/github-stats-transparent/blob/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/dflr10/github-stats-transparent/36bc2e58f8873a1baa7d09313c794e08ca3d84e3/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/dflr10/github-stats-transparent/36bc2e58f8873a1baa7d09313c794e08ca3d84e3/generated/languages.svg)
 
 </a>
 
