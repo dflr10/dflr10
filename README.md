@@ -19,7 +19,7 @@
 <br />
 
 
-I am a versatilist and easily adapt to different stacks (JR Full Stack Web Developer 🌐, Java Developer ☕) depending on what the project requires. I love exploring new tech stackand leveraging them to build cool stuffs, constantly learning and updating my knowledge and i like the feedback that comes from teamwork. The programming languages that I use are Java, JavaScript and Python, but I also have knowledge in SQL databases. I am currently learning development backend with Django and Django REST frameworks and frontend development with React JS, Vue JS and Bootstrap.
+I am a versatilist and easily adapt to different stacks depending on what the project requires. I love exploring new tech stackand leveraging them to build cool stuffs, constantly learning and updating my knowledge and i like the feedback that comes from teamwork. The programming languages that I use are Java, JavaScript and Python, but I also have knowledge in SQL databases.
 
 <br/>
 <br/>
