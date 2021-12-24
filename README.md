@@ -63,6 +63,8 @@ I am a versatilist and easily adapt to different stacks depending on what the pr
   
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="./assets/postgresql.png"></a>
 
+<a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" height ="42px" src="./assets/graphql.png"></a>
+
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="42px" src="./assets/mysql.png"></a>
   
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/></a>
