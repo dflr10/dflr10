@@ -73,9 +73,11 @@ I am a versatilist and easily adapt to different stacks depending on what the pr
   
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height ="35px" src="./assets/vue.png"></a>
   
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img align="left" alt="Gatsby" height ="35px" src="./assets/gatsby.png"></a>
+
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+  
+<a href="https://www.gatsbyjs.com/" target="_blank"> <img align="left" alt="Gatsby" height ="35px" src="./assets/gatsby.png"></a>
    
 <a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="DjangoREST" height ="42px" src="./assets/django.png"></a>
   
