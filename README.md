@@ -10,9 +10,6 @@
 <a href="https://www.linkedin.com/in/daniel-felipe-lozada-ramirez-28b239115/" target="_blank">
   <img align="left" alt="Daniel Lozada's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/rhgr66eh3m8cm2hgh7wxz1f4v?si=-C63bbCfRPG23Q3nx1RddA&dl_branch=1" target="_blank">
-  <img align="left" alt="Daniel Lozada's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dflr10.dflr10)
 
