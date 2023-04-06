@@ -16,7 +16,9 @@
 <br />
 
 
-I am a versatilist and easily adapt to different stacks depending on what the project requires. I love exploring new tech stackand leveraging them to build cool stuffs, constantly learning and updating my knowledge and i like the feedback that comes from teamwork. The programming languages that I use are Java, JavaScript and Python, but I also have knowledge in SQL databases.
+Versatile and easy to adapt to different technology stacks depending on what the project requires. I love exploring new technologies and taking advantage of them to create great things, I like the feedback that comes from teamwork under SCRUM methodologies.
+
+I focus on REACT, GATSBY & CONTENTFUL.
 
 <br/>
 <br/>
@@ -52,7 +54,7 @@ I am a versatilist and easily adapt to different stacks depending on what the pr
   
 <!-- <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" height ="36px" src="./assets/php.png"></a> -->
   
-<a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img align="left" alt="IntelliJ IDEA" height ="42px" src="./assets/intellij-idea.png"></a>
+<!--<a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img align="left" alt="IntelliJ IDEA" height ="42px" src="./assets/intellij-idea.png"></a> -->
   
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VS Code" height ="36px" src="./assets/vscode.png"></a>  
   
@@ -65,10 +67,10 @@ I am a versatilist and easily adapt to different stacks depending on what the pr
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="42px" src="./assets/mysql.png"></a>
   
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/></a>
+ 
+<!--<a href="https://www.heroku.com" target="_blank"> <img align="left" src="./assets/heroku.png" alt="firebase" height ="35px"/></a> -->
   
-<a href="https://www.heroku.com" target="_blank"> <img align="left" src="./assets/heroku.png" alt="firebase" height ="35px"/></a>
-  
-<a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height ="35px" src="./assets/vue.png"></a>
+<!--<a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height ="35px" src="./assets/vue.png"></a> -->
   
 
 
@@ -78,7 +80,7 @@ I am a versatilist and easily adapt to different stacks depending on what the pr
    
 <a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="DjangoREST" height ="42px" src="./assets/django.png"></a>
   
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<!--<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> -->
   
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
   
