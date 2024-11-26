@@ -1,16 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<a href="https://discord.gg/E3QzBH2C" target="_blank">
-  <img align="left" alt="Daniel Lozada's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/dflr10" target="_blank">
-  <img align="left" alt="Daniel Lozada | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/daniel-felipe-lozada-ramirez-28b239115/" target="_blank">
-  <img align="left" alt="Daniel Lozada's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=dflr10.dflr10)
 
 <br />
