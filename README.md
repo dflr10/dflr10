@@ -8,7 +8,6 @@
 
 Versatile and easy to adapt to different technology stacks depending on what the project requires. I love exploring new technologies and taking advantage of them to create great things, I like the feedback that comes from teamwork under SCRUM methodologies.
 
-I focus on REACT, GATSBY & CONTENTFUL.
 
 <br/>
 <br/>
