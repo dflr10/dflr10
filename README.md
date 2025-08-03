@@ -19,8 +19,8 @@ I focus on REACT, GATSBY & CONTENTFUL.
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **PRAGMA SA**.
-- 🌱 &nbsp; I’m currently learning Next, Gatsby and gamification. 
+- 🔭 &nbsp; I’m currently working at **Web Freelance Dev**.
+- 🌱 &nbsp; I’m currently learning AI models and how to apply them to web development. 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dflr10?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/daniel-felipe-lozada-ramirez-28b239115/).
